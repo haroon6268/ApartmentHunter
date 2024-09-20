@@ -4922,11 +4922,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/haroon/apartment hunter/apartmentsApi/apartmentsApi.csproj",
+      "projectUniqueName": "/Users/haroon/Desktop/VCU/CMSC 256/ApartmentHunter/apartmentsApi.csproj",
       "projectName": "apartmentsApi",
-      "projectPath": "/Users/haroon/apartment hunter/apartmentsApi/apartmentsApi.csproj",
+      "projectPath": "/Users/haroon/Desktop/VCU/CMSC 256/ApartmentHunter/apartmentsApi.csproj",
       "packagesPath": "/Users/haroon/.nuget/packages/",
-      "outputPath": "/Users/haroon/apartment hunter/apartmentsApi/obj/",
+      "outputPath": "/Users/haroon/Desktop/VCU/CMSC 256/ApartmentHunter/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/haroon/.nuget/NuGet/NuGet.Config"

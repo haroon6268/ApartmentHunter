@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EpKNapFkl2b6vAPzt1FKS5PPSv50fB0KAoBZDN4Oj4PCjh6jG9squ597cpHzDafl/9iTk9laVEvDVRYAFcoAyg==",
+  "dgSpecHash": "JnG8zbMyZmnxi2aM4droIWWXtnS3cIeQ/qCqcWUoVgBOCFaHh89D70qI407s4S+gcQV5pnd4TDgUii4JU33MLg==",
   "success": true,
-  "projectFilePath": "/Users/haroon/apartment hunter/apartmentsApi/apartmentsApi.csproj",
+  "projectFilePath": "/Users/haroon/Desktop/VCU/CMSC 256/ApartmentHunter/apartmentsApi.csproj",
   "expectedPackageFiles": [
     "/Users/haroon/.nuget/packages/awssdk.core/3.7.100.14/awssdk.core.3.7.100.14.nupkg.sha512",
     "/Users/haroon/.nuget/packages/awssdk.securitytoken/3.7.100.14/awssdk.securitytoken.3.7.100.14.nupkg.sha512",
